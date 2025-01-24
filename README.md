@@ -1,2 +1,3 @@
 # acrtos12
-My personal repository
+- I am new to coding.
+- I am currently working through the freeCodeCamp curriculm.
